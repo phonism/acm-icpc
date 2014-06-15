@@ -1,3 +1,5 @@
+// Answer: 7273
+
 import java.util.Scanner;
 
 public class P067 {

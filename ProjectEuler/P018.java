@@ -1,3 +1,5 @@
+// answer: 1074
+
 import java.util.Scanner;
 
 public class P018 {
